@@ -7,7 +7,7 @@ export const config = {
     APP_ID: "wxe40fe9d9ce21dee9",
 
     // 公众号APP_SECRET
-    APP_SECRET: "6791880be01245c8a76fa4cc4e8d744f",
+    APP_SECRET: "af0844d7872691eb45e90641b0ea4fea",
 
     // 模板消息id
     TEMPLATE_ID: "	a7KEg2PbXlEWJpfvmC1cf1WqFr96sgycHPt3jQXf0dU",
